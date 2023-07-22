@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamAPI", "ExamAPI\ExamAPI.csproj", "{49C3F5D5-181A-4DF6-882F-C5AD75D25A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMAWS_T2203E_ThangDo", "DMAWS_T2203E_ThangDo\DMAWS_T2203E_ThangDo.csproj", "{1DCC3885-0307-4228-BC7E-05B1D0E891B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C3F5D5-181A-4DF6-882F-C5AD75D25A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C3F5D5-181A-4DF6-882F-C5AD75D25A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C3F5D5-181A-4DF6-882F-C5AD75D25A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C3F5D5-181A-4DF6-882F-C5AD75D25A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCC3885-0307-4228-BC7E-05B1D0E891B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCC3885-0307-4228-BC7E-05B1D0E891B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCC3885-0307-4228-BC7E-05B1D0E891B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCC3885-0307-4228-BC7E-05B1D0E891B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30DD8EDF-3513-45C8-94B3-80F302164E4F}
+	EndGlobalSection
+EndGlobal
